@@ -1,0 +1,26 @@
+# Arquivos compilados do Rust
+/target/
+**/*.rs.bk
+
+# Arquivos de debug
+*.pdb
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Backup files
+*~
